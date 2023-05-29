@@ -3,3 +3,5 @@
 <p align="center">
   <img src="https://github.com/Toowan0x1/Piscine-1337/blob/master/omar.png" alt="img" />
 </p>
+
+<img src="https://github.com/Toowan0x1/Piscine-1337/blob/master/omar.png" alt="img" width=100% height=auto />
